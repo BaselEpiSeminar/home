@@ -1,0 +1,44 @@
+---
+title: "Basel Epidemiology Seminar (BES), an independent, non-profit forum for discussion between epidemiologists"
+author: ""
+date: '`r Sys.setlocale("LC_TIME", "C"); format(Sys.Date(), "%d %b %Y")`'
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: yes
+    self_contained: yes
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+---
+
+# Board of Organizers (in alphabetical order)
+
+Sigrid Behr, Novartis Pharma AG, Basel
+Andrea Burden, ETH Zurich, Zurich
+Susan Edwards, Janssen Pharmaceutical companies of Johnson & Johnson, Basel
+Christoph R. Meier, Basel Pharmacoepidemiology Unit and Hospital Pharmacy, University of Basel
+Alexander Michel, Bayer Consumer Care AG, Basel
+Julie Mouchet, Novartis Pharma AG, Basel
+Nicole Probst, Swiss Tropical and Public Health Institute, University of Basel
+Daniel Rosenberg, Janssen Pharmaceutical companies of Johnson & Johnson, Basel
+Thibaut Sanglier, Hoffmann-La Roche, Basel
+ 
+
+[Contact](mailto:sigrid.behr@novartis.com)
+
+# E-mail announcements of events
+
+If you would like to receive e-mail announcements of upcoming events please send an email to [Sigrid Behr](mailto:sigrid.behr@novartis.com).
+
+<center>![](BES_Theme.jpg)</center>
+
+# News on this site
+
+
+
+
+
+
+
+
