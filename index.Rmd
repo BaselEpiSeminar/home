@@ -16,10 +16,12 @@ output:
 
 Sigrid Behr, Novartis Pharma AG, Basel  
 Andrea Burden, ETH Zurich, Zurich  
-Susan Edwards, Janssen Pharmaceutical companies of Johnson & Johnson, Basel  
+Bernadette Dwan, IQVIA, Basel
+Susan Edwards, Hoffmann-La Roche, Basel 
 Christoph R. Meier, Basel Pharmacoepidemiology Unit and Hospital Pharmacy, University of Basel  
 Alexander Michel, Bayer Consumer Care AG, Basel  
 Julie Mouchet, Novartis Pharma AG, Basel  
+Audrey Muller, Janssen Pharmaceutical companies of Johnson & Johnson, Basel 
 Nicole Probst, Swiss Tropical and Public Health Institute, University of Basel  
 Daniel Rosenberg, Janssen Pharmaceutical companies of Johnson & Johnson, Basel  
 Thibaut Sanglier, Hoffmann-La Roche, Basel  
