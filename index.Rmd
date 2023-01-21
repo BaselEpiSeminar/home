@@ -6,11 +6,11 @@ output:
     number_sections: no
     self_contained: yes
     toc: yes
-    toc_depth: 2
+    toc_depth: 3
     toc_float: yes
 ---
 
-# Board of Organizers (in alphabetical order)
+### Board of Organizers
 
 Sigrid Behr, Novartis Pharma AG, Basel  
 Andrea Burden, ETH Zurich, Zurich  
@@ -27,14 +27,14 @@ Thibaut Sanglier, Hoffmann-La Roche, Basel
 
 [Contact](mailto:sigrid.behr@novartis.com)
 
-# E-mail announcements of events
+### E-mail announcements of events
 
 If you would like to receive e-mail announcements of upcoming events please send an email to [Alison Steenblock](mailto:asteenbl@its.jnj.com).
 
 <center>![](BES_Theme.jpg)</center>
 
 
-# News on this site
+### News on this site
 
 
 
