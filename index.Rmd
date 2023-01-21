@@ -3,7 +3,7 @@ title: "Basel Epidemiology Seminar (BES), an independent, non-profit forum for d
 output: 
   rmarkdown::html_document:
     highlight: pygments
-    number_sections: yes
+    number_sections: no
     self_contained: yes
     toc: yes
     toc_depth: 2
