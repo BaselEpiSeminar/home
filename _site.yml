@@ -18,8 +18,7 @@ navbar:
       menu:
         - text: "Agendas, slidedecks, and recordings of past BES seminars"
           href: events_past.html
-    - text: "Additional documents"
-      href: additional_docs.html
+
   output:
   html_document:
     theme: cosmo
