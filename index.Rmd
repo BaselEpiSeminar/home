@@ -1,5 +1,6 @@
 ---
 title: "Basel Epidemiology Seminar (BES), an independent, non-profit forum for discussion between epidemiologists"
+
 output: 
   rmarkdown::html_document:
     highlight: pygments
@@ -12,29 +13,28 @@ output:
 
 ### Board of Organizers
 
-Sigrid Behr, Novartis Pharma AG, Basel  
-Andrea Burden, ETH Zurich, Zurich  
-Bernadette Dwan, IQVIA, Basel   
-Susan Edwards, Hoffmann-La Roche, Basel   
-Christoph R. Meier, Basel Pharmacoepidemiology Unit and Hospital Pharmacy, University of Basel  
-Alexander Michel, Bayer Consumer Care AG, Basel  
-Julie Mouchet, Novartis Pharma AG, Basel  
-Audrey Muller, Janssen Pharmaceutical companies of Johnson & Johnson, Basel   
-Nicole Probst, Swiss Tropical and Public Health Institute, University of Basel  
-Daniel Rosenberg, Janssen Pharmaceutical companies of Johnson & Johnson, Basel  
-Thibaut Sanglier, Hoffmann-La Roche, Basel  
+__Sigrid Behr__, Novartis Pharma AG, Basel  
+__Andrea Burden__,ETH Zurich, Zurich  
+__Bernadette Dwan__, IQVIA, Basel   
+__Susan Edwards__, Hoffmann-La Roche, Basel   
+__Christoph R. Meier__, Basel Pharmacoepidemiology Unit and Hospital Pharmacy, University of Basel  
+__Alexander Michel__, Bayer Consumer Care AG, Basel  
+__Julie Mouchet__, Novartis Pharma AG, Basel  
+__Audrey Muller__, Janssen Pharmaceutical companies of Johnson & Johnson, Basel   
+__Nicole Probst__, Swiss Tropical and Public Health Institute, University of Basel  
+__Daniel Rosenberg__, Janssen Pharmaceutical companies of Johnson & Johnson, Basel  
+__Thibaut Sanglier__, Hoffmann-La Roche, Basel  
  
 
-[Contact](mailto:sigrid.behr@novartis.com)
+[__Contact__](mailto:sigrid.behr@novartis.com)
 
 ### E-mail announcements of events
 
-If you would like to receive e-mail announcements of upcoming events please send an email to [Alison Steenblock](mailto:asteenbl@its.jnj.com).
+If you would like to receive e-mail announcements of upcoming events please send an email to [__Alison Steenblock__](mailto:asteenbl@its.jnj.com).
 
-<center>![](BES_Theme.jpg)</center>
+<center>![](BES_Theme.jpg)</center>  
+  
 
-
-### News on this site
 
 
 
