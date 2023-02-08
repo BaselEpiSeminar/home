@@ -8,8 +8,6 @@ navbar:
       menu:
         - text: "Purpose"
           href: purpose.html
-        - text: "Board of Organizers"
-          href: board.html
     - text: "Upcoming events"
       menu:
         - text: "Announcements of upcoming events"
