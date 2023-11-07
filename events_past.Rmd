@@ -1,13 +1,14 @@
 ---
 title: "Past events: agendas, slidedecks"
+
 output: 
   rmarkdown::html_document:
-  highlight: pygments
-number_sections: yes
-self_contained: yes
-toc: true # RI
-toc_depth: 2
-toc_float: yes
+    highlight: pygments
+    number_sections: yes
+    self_contained: yes
+    toc: yes # RI
+    toc_depth: 2
+    toc_float: yes
 ---
   
 ```{r setup, include = FALSE, echo = FALSE}
