@@ -21,7 +21,7 @@ __Christoph R. Meier__, Basel Pharmacoepidemiology Unit and Hospital Pharmacy, U
 __Alexander Michel__, Bayer Consumer Care AG, Basel  
 __Julie Mouchet__, Novartis Pharma AG, Basel  
 __Audrey Muller__, Janssen Pharmaceutical companies of Johnson & Johnson, Basel   
-__Nicole Probst__, Swiss Tropical and Public Health Institute, University of Basel  
+__Manuel Hetzel__, Swiss Tropical and Public Health Institute, University of Basel  
 __Daniel Rosenberg__, Janssen Pharmaceutical companies of Johnson & Johnson, Basel  
 __Thibaut Sanglier__, Hoffmann-La Roche, Basel  
  
