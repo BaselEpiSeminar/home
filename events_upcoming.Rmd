@@ -6,12 +6,10 @@ output:
     highlight: pygments
     number_sections: no
     self_contained: yes
-    toc: yes
-    toc_depth: 2
+    toc: no
+    toc_depth: 1
     toc_float: yes
 ---
-
-# Upcoming events
 
 ```{r setup, include = FALSE, echo = FALSE}
 ## load packages
@@ -43,3 +41,8 @@ upcoming <- select(upcoming, date, event, type, Agenda, Registration) %>% rename
 ```{r, include=TRUE, echo=FALSE}
 kable(upcoming)
 ```
+<script>
+$(function() {
+    $('table').not('.table').addClass('table table-condensed');
+});
+</script>
