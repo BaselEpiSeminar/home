@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## talks
 path <- getwd()
 talks <- as.data.frame(read_excel(paste(path, "/data/seminars.xlsx", sep = ""), col_types = NULL))
-dates <- unique(select(talks, date))[, 1]
+dates <- unique(talks$date)
 
 # prepare date strings
 d <- substr(dates, 1, 2)
@@ -46,4 +46,10 @@ a <- knit(text = unlist(paste(out1, collapse = '\n')), quiet = TRUE)
 
 ```{r conferences, echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
 cat(a)
+
 ```
+<script>
+$(function() {
+    $('table').not('.table').addClass('table table-condensed');
+});
+</script>
